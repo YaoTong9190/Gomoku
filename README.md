@@ -11,6 +11,8 @@ ___
 
 **Board size:** 15\*15
 
+**Game process:** 
+
 ## Install
 This project uses [numpy](https://numpy.org), please make sure it has been installed locally.
 ```
@@ -25,7 +27,10 @@ python rule_implementation.py
 
 ## Maintainers
 [@heyheyhey2020](https://github.com/heyheyhey2020)
+
 [@YaoTong9190](https://github.com/YaoTong9190)
+
+[@xxxhbb](https://github.com/xxxhbb)
 
 ## License
 
