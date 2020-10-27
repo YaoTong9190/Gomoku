@@ -104,11 +104,11 @@ class Gomoku:
                         if self.board[i + step][j + step] == color:
                             count += 1
                     if count == 5: return True
-                if i>=4 and j<=10:
+                if i<=10 and j>=4:
                     color = self.board[i][j]
                     count = 1
                     for step in range(1, 5):
-                        if self.board[i - step][j + step] == color:
+                        if board[i + step][j - step] == color:
                             count += 1
                     if count == 5 : return True
         return False
