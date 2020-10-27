@@ -1,6 +1,6 @@
 ___
-# AI Gomoku Game -- CIS667 final project
 ___
+# AI Gomoku Game -- CIS667 final project
 ___
 ## Background
 > Gomoku, also called Five in a Row, is an abstract strategy board game. It is traditionally played with Go pieces (black and white stones) on a Go board. It can be played using the 15×15 board or the 19×19 board.
@@ -24,14 +24,13 @@ python rule_implementation.py
 ```
 
 ## Maintainers
-@ 
-@
-@
+[@heyheyhey2020](https://github.com/heyheyhey2020)
+[@YaoTong9190](https://github.com/YaoTong9190)
 
 ## License
 
 
 ## Milestones
- - [x] stage1: basic rule implementation.
+ - [x] stage1: Basic rule implementation.
  - [ ] stage2: AI implementation.
 
