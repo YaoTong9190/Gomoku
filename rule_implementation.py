@@ -44,7 +44,7 @@ class Gomoku:
             self.turnChange()
 
 
-    #Draw action function
+
     def drawGo(self):
         current_player = "Black" if self.turn == 0 else "White"
         print("Draw Go Action: " + current_player)
@@ -63,7 +63,7 @@ class Gomoku:
         if self.isWin():
             self.win = True
 
-    #Exchange action function
+
     def exchangeGo(self):
         current_player = "Black" if self.turn == 0 else "White"
         print("Exchange Go Action: " + current_player)
@@ -78,37 +78,51 @@ class Gomoku:
         x2, y2 = coordinate2
         self.board[x1][y1], self.board[x2][y2] = self.board[x2][y2], self.board[x1][y1]
 
-    #Win state check function
     def isWin(self):
         for i in range(15):
             for j in range(15):
+                if self.board[i][j] == 0:
+                    continue
                 if i<=10:
-                    if self.board[i][j] == self.board[i+1][j] == self.board[i+2][j] == self.board[i+3][j] == self.board[i+4][j] and self.board[i][j]!=0:
-                        return True
+                    color = self.board[i][j]
+                    count = 1
+                    for step in range(1,5):
+                        if self.board[i+step][j] == color:
+                            count += 1
+                    if count == 5 : return True
                 if j<=10:
-                    if self.board[i][j] == self.board[i][j+1] == self.board[i][j+2] == self.board[i][j+2] == self.board[i][j+4] and self.board[i][j]!=0:
-                        return True
+                    color = self.board[i][j]
+                    count = 1
+                    for step in range(1, 5):
+                        if self.board[i][j+step] == color:
+                            count += 1
+                    if count == 5: return True
                 if i<=10 and j<=10:
-                    if self.board[i][j] == self.board[i+1][j+1] == self.board[i+2][j+2] == self.board[i+3][j+3] == self.board[i+4][j+4] and self.board[i][j]!=0:
-                        return True
+                    color = self.board[i][j]
+                    count = 1
+                    for step in range(1, 5):
+                        if self.board[i + step][j + step] == color:
+                            count += 1
+                    if count == 5: return True
                 if i>=4 and j<=10:
-                    if self.board[i][j] == self.board[i][j] == self.board[i][j] == self.board[i][j] == self.board[i][j] and self.board[i][j]!=0:
-                        return True
+                    color = self.board[i][j]
+                    count = 1
+                    for step in range(1, 5):
+                        if self.board[i - step][j + step] == color:
+                            count += 1
+                    if count == 5 : return True
         return False
-    
-    #Player change function
+
     def turnChange(self):
         self.turn = (self.turn+1)%2
 
 
-    #Input coordinate validation check for draw function
     def isDrawValid(self, coordinate):
         x, y = coordinate
         if x<0 or x>=self.widthGrid or y<0 or y>=self.heightGrid or self.board[x][y] != 0:
             return False
         return True
 
-    #Input coordinate validation check for exchange function
     def isExchangeValid(self, coordinate1, coordinate2):
         x1, y1 = coordinate1
         x2, y2 = coordinate2
@@ -119,8 +133,7 @@ class Gomoku:
         if self.board[x1][y1] == self.board[x2][y2] or self.board[x1][y1] == 0 or self.board[x2][y2] == 0:
             return False
         return True
-    
-    #Game end message
+
     def game_end(self):
         winner = "Black" if self.turn==0 else "White"
 
