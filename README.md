@@ -12,6 +12,7 @@ ___
 **Board size:** 15\*15
 
 **Game process:** 
+![process flowchart](https://github.com/YaoTong9190/Gomoku/blob/main/process%20flowchart.png)
 
 ## Install
 This project uses [numpy](https://numpy.org), please make sure it has been installed locally.
