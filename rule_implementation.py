@@ -108,9 +108,9 @@ class Gomoku:
                     color = self.board[i][j]
                     count = 1
                     for step in range(1, 5):
-                        if board[i + step][j - step] == color:
+                        if self.board[i + step][j - step] == color:
                             count += 1
-                    if count == 5 : return True
+                    if count == 5: return True
         return False
 
     def turnChange(self):
