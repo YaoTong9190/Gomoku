@@ -17,7 +17,7 @@ ___
 ## Install
 This project uses [numpy](https://numpy.org), please make sure it has been installed locally.
 ```
-pip install python
+pip install numpy
 ```
 
 ## Usage
@@ -38,5 +38,5 @@ python rule_implementation.py
 
 ## Milestones
  - [x] stage1: Basic rule implementation.
- - [ ] stage2: AI implementation.
+ - [ ] stage2: Tree-based AI implementation.
 
