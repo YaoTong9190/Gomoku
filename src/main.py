@@ -3,7 +3,6 @@ from node import *
 from default_args import *
 from tree_algorithm import *
 import matplotlib.pyplot as plt
-import baseline
 import random
 board = [[0 for i in range(args.board_size)] for j in range(args.board_size)]
 boardObject = Board(board)
@@ -162,7 +161,7 @@ def random_pick():
     print(x, y)
     # board[x][y] = 2 ------test purpose
 
-    board[x][y] = 2
+    board[x][y] = 1
     return x, y
 
 
