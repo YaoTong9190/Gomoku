@@ -16,7 +16,7 @@
 **Board size:** 15\*15
 
 **Game process:**
-![process flowchart](https://github.com/YaoTong9190/Gomoku/blob/main/process%20flowchart.png)
+![process flowchart](https://github.com/YaoTong9190/Gomoku/blob/main/flowchart_milestone2.png)
 
 ## Package pre-install
 
