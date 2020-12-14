@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="108264bb-82bd-43d0-bc1a-a910910d0fe5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Milestone3" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lOHf1SHBkbTYI3XQKpS08GESxJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Milestone3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mcts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Milestone3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mcts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Milestone3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Milestone3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.mcts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="108264bb-82bd-43d0-bc1a-a910910d0fe5" name="Default Changelist" comment="" />
+      <created>1607461316609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607461316609</updated>
+      <workItem from="1607461320908" duration="11568000" />
+      <workItem from="1607530288892" duration="11745000" />
+      <workItem from="1607654179004" duration="4486000" />
+      <workItem from="1607724428820" duration="510000" />
+      <workItem from="1607736897145" duration="3748000" />
+      <workItem from="1607780298060" duration="3627000" />
+      <workItem from="1607785920246" duration="1336000" />
+      <workItem from="1607817382940" duration="19000" />
+      <workItem from="1607817489277" duration="977000" />
+      <workItem from="1607866951171" duration="45000" />
+      <workItem from="1607977822491" duration="3028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607703854097">
+      <screen x="0" y="23" width="1600" height="793" />
+    </state>
+    <state x="538" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.900@0.0.1600.900" timestamp="1607634699537" />
+    <state x="538" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1600.793@0.23.1600.793" timestamp="1607703854097" />
+    <state width="1558" height="390" key="GridCell.Tab.0.bottom" timestamp="1607983005118">
+      <screen x="0" y="23" width="1600" height="793" />
+    </state>
+    <state width="1398" height="125" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607550742668" />
+    <state width="1558" height="459" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1607817608806" />
+    <state width="1878" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607549211667" />
+    <state width="1558" height="390" key="GridCell.Tab.0.bottom/0.23.1600.793@0.23.1600.793" timestamp="1607983005118" />
+    <state width="1878" height="685" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1607468657569" />
+    <state width="1558" height="390" key="GridCell.Tab.0.center" timestamp="1607983005117">
+      <screen x="0" y="23" width="1600" height="793" />
+    </state>
+    <state width="1398" height="125" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607550742666" />
+    <state width="1558" height="459" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1607817608804" />
+    <state width="1878" height="230" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607549211665" />
+    <state width="1558" height="390" key="GridCell.Tab.0.center/0.23.1600.793@0.23.1600.793" timestamp="1607983005117" />
+    <state width="1878" height="685" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1607468657568" />
+    <state width="1558" height="390" key="GridCell.Tab.0.left" timestamp="1607983005116">
+      <screen x="0" y="23" width="1600" height="793" />
+    </state>
+    <state width="1398" height="125" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607550742665" />
+    <state width="1558" height="459" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1607817608802" />
+    <state width="1878" height="230" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607549211664" />
+    <state width="1558" height="390" key="GridCell.Tab.0.left/0.23.1600.793@0.23.1600.793" timestamp="1607983005116" />
+    <state width="1878" height="685" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1607468657568" />
+    <state width="1558" height="390" key="GridCell.Tab.0.right" timestamp="1607983005117">
+      <screen x="0" y="23" width="1600" height="793" />
+    </state>
+    <state width="1398" height="125" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607550742667" />
+    <state width="1558" height="459" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1607817608805" />
+    <state width="1878" height="230" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607549211666" />
+    <state width="1558" height="390" key="GridCell.Tab.0.right/0.23.1600.793@0.23.1600.793" timestamp="1607983005117" />
+    <state width="1878" height="685" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1607468657569" />
+    <state width="1558" height="590" key="GridCell.Tab.1.bottom" timestamp="1607654152471">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="590" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1607654152471" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607487730398" />
+    <state width="1558" height="590" key="GridCell.Tab.1.center" timestamp="1607654152470">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="590" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1607654152470" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607487730397" />
+    <state width="1558" height="590" key="GridCell.Tab.1.left" timestamp="1607654152470">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="590" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1607654152470" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607487730397" />
+    <state width="1558" height="590" key="GridCell.Tab.1.right" timestamp="1607654152471">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="590" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1607654152471" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607487730397" />
+    <state x="512" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1607866951216">
+      <screen x="0" y="23" width="1600" height="793" />
+    </state>
+    <state x="614" y="374" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607530289277" />
+    <state x="512" y="298" key="com.intellij.ide.util.TipDialog/0.23.1600.793@0.23.1600.793" timestamp="1607866951216" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1607479027209">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607479027209" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gomoku.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cnn_net.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Milestone3$train.coverage" NAME="train Coverage Results" MODIFIED="1607978704577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Milestone3$main.coverage" NAME="main Coverage Results" MODIFIED="1607980506595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Milestone3$mcts.coverage" NAME="mcts Coverage Results" MODIFIED="1607639842062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Milestone3$test.coverage" NAME="test Coverage Results" MODIFIED="1607654657515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
