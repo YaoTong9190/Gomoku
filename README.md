@@ -17,10 +17,13 @@
 
 ## Package pre-install
 
-This project uses [numpy](https://numpy.org) please make sure it has been installed locally.
+This project uses [numpy](https://numpy.org), [pickle](https://docs.python.org/3/library/pickle.html), [torch](http://torch.ch), [random](https://docs.python.org/3/library/random.html) libraries, please make sure they have been installed locally.
 
 ```
 pip install numpy
+pip install pickle
+pip install torch
+pip install random
 ```
 
 ## Usage
@@ -29,14 +32,15 @@ The project has constructed by class gomoku, human, baseline, mcts, mcts_nn and 
 
 src
 
-|- main.py  
-|- gomoku.py  
-|- human.py  
-|- baseline.py  
-|- mtcs.py
-|- mtcs_nn.py
-|- cnn_net.py
-|- train.py
+|- main.py   
+|- gomoku.py   
+|- human.py   
+|- baseline.py   
+|- mtcs.py     
+|- mtcs_nn.py    
+|- cnn_net.py    
+|- train.py    
+
 
 To play the game, directly run main.py file.
 
