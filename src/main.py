@@ -85,7 +85,7 @@ def run():
         board = Board(width=width, height=height, n_in_row=n)
         game = Game(board)
         player1 = Human()
-        game.start_play(player1, player2, start_player=1, is_shown=1)
+        game.start_play(player1, player2, start_player=0, is_shown=1)
     except KeyboardInterrupt:
         print('\n\rquit')
 
